@@ -53,7 +53,7 @@
 //     }
 
 // console.log(total)
-
+adii
 let a = [12,34,56,1]
 
 max = 0
